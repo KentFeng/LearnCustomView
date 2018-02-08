@@ -8,7 +8,7 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.noon.drawview.R;
+import com.customview.andprac.R;
 
 /**
  * Created by wu on 2018/1/3.

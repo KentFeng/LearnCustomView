@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndPrac.iml" filepath="$PROJECT_DIR$/AndPrac.iml" />
+      <module fileurl="file://E:\gitSpace\customView\LearnCustomView\AndPrac.iml" filepath="E:\gitSpace\customView\LearnCustomView\AndPrac.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnCustomView.iml" filepath="$PROJECT_DIR$/LearnCustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
